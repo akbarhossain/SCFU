@@ -18,7 +18,7 @@ Where: King Edwards School, Bath. BA2 6HU
 
 
 
-Age category: U15 (fencer was 14 or younger and old than 11 on 1st Jan 2019)
+Age category: U15 (fencer was 14 or younger and older than 11 on 1st Jan 2019)
 
 
 
