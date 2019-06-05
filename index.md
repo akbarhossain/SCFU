@@ -29,6 +29,11 @@ The regular ladder format is explained here: <https://academyoffencingmasters.co
 ### Competition Format
 Not known at this stage. It maybe poules followed by a seeded tableau or some sort of poule unique format. Do expect a full day of fencing fun and fencers may need to referee other matches.
 
+### British Fencing Membership
+Fencers must have a current British Fencing Compete membership.
+
+Being selected and fencing from Surrey County does not affect your British Fencing regional affliation (London or South East).
+
 ### Team Selections
 Notification of selection and team entries will be made on the 17th June 2019
 
