@@ -3,7 +3,7 @@
 The Surrey County Fencing Union is planning to send a six weapons contingent to Junior Excalibur. If you would like to compete at the Junior Excalibur event please contact us at ...
 
 
-The details for the next Junior Excalibur as as follows.
+The details for the next Junior Excalibur 2019 are as follows.
  
 
 ### When 
