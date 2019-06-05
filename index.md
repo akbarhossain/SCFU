@@ -36,11 +36,13 @@ In the case of over subscription in any weapon participation at the Surrey Youth
 
 
 ### Why compete at Excalibur
-Firstly it’s a team competition so expect a lot of variety and fencing practice. Secondly it’s a team competition so expect to spend a lot of time having fun with your team mates. Thirdly its Excalibur! Past participants at the Senior Excalibur event have talked about the fun and good natured atmosphere that the organisers and the competitors/counties create at the Excalibur events.
+- Firstly it’s a team competition so expect a lot of variety and fencing practice. 
+- Secondly it’s a team competition so expect to spend a lot of time having fun with your team mates.
+- Thirdly its Excalibur! Past participants at the Senior Excalibur event have talked about the fun and good natured atmosphere that the organisers and the competitors/counties create at the Excalibur events.
 
 ### How do we find team members
-- We will contact the partcipants of the Surrey Youth Championships
-- We will contact the Surrey based club
+- We contact the partcipants of the Surrey Youth Championships
+- We contact the Surrey based club
 - You can contact us
 
 ### Official Competition Invitation
