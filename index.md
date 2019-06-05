@@ -1,6 +1,6 @@
 # Junior Excalibur
 
-The Surrey County Fencing Union is planning to send a six weapons contingent to Junior Excalibur. If you would like to compete at the Junior Excalibur event please contact us.
+The Surrey County Fencing Union is planning to send a six weapons contingent to Junior Excalibur. If you would like to compete at the Junior Excalibur event please contact us at ...
 
 
 The details for the next Junior Excalibur as as follows.
@@ -13,7 +13,7 @@ Sunday 7th July 2019 (one day only)
 Not set yet but expect a morning start and it could be a long day.
 
 ### Where 
-King Edwards School, Bath. BA2 6HU
+King Edwards School, Bath. BA2 6HU	 [Map](https://www.google.com/maps/place/King+Edward's+School,+Bath/@51.3863995,-2.3425715,15z/data=!4m5!3m4!1s0x0:0x14a025bb916c9f6!8m2!3d51.3863995!4d-2.3425715)
 
 ### Age Category
 U15 (fencer is older than 11 and younger than 15 on 1st Jan 2019)
@@ -46,9 +46,12 @@ In the case of over subscription in any weapon participation at the Surrey Youth
 - Thirdly its Excalibur! Past participants at the Senior Excalibur event have talked about the fun and good natured atmosphere that the organisers and the competitors/counties create at the Excalibur events.
 
 ### How do we find team members
-- We contact the partcipants of the Surrey Youth Championships
-- We contact the Surrey based club
-- You can contact us
+- We contact the all the partcipants of the Surrey Youth Championships
+- We contact the all the Surrey county based fencing clubs
+- You can contact us 
 
 ### Official Competition Invitation
 <http://www.swfencing.co.uk/wp-content/uploads/2018/11/Junior-Excalibur-2019-July-.pdf>
+
+### Any questions?
+If you have further questions please feel free to contact us at ...
