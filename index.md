@@ -46,8 +46,8 @@ In the case of over subscription in any weapon participation at the Surrey Youth
 - Thirdly its Excalibur! Past participants at the Senior Excalibur event have talked about the fun and good natured atmosphere that the organisers and the competitors/counties create at the Excalibur events.
 
 ### How do we find team members
-- We contact the all the partcipants of the Surrey Youth Championships
-- We contact the all the Surrey county based fencing clubs
+- We contact all the partcipants of the Surrey Youth Championships
+- We contact all the Surrey County based fencing clubs
 - You can contact us 
 
 ### Official Competition Invitation
