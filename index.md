@@ -15,9 +15,9 @@ Full details for the next Junior Excalibur 2019 event to be held 7th July 2019 c
 - Thirdly its Excalibur! Past participants at the Excalibur event have talked about the fun and good natured atmosphere that the organisers, the competitors and the counties create at the Excalibur events. You may also get the chance to visit and enjoy the beautiful town of Bath.
 
 ## How to sign up
-- We contact all the partcipants of the Surrey Championships for the Excalibur team or Surrey Youth Championships for the Junior Excalibur team so please keep an eye out for this email.
+- We contact all the partcipants of the Surrey Championships for the Excalibur team or Surrey Youth Championships for the Junior Excalibur team. So please keep an eye out for this email and sign up.
 - We also contact all the Surrey County based fencing clubs.
-- Finally, you are welcome to [contact us](./contact).
+- Finally, you are welcome to [contact us](./contact) to put your name forward for selection.
 
 ## Any questions?
 If you have further questions about Excalibur or the Surrey County Fencing Union please feel free to [contact us](./contact).

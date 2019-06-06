@@ -43,7 +43,7 @@ In the case of over subscription in any weapon participation at the Surrey Champ
 ### How do we find team members
 - We contact all the partcipants of the Surrey Championships
 - We contact all the Surrey County based fencing clubs
-- You can [contact us](./contact). 
+- You are welcome to [contact us](./contact) to put your name forward for selection.
 
 ### Official Competition Invitation (2019)
 <https://bathswordclub.co.uk/wp-content/uploads/2019-excalibur-invitation..pdf>

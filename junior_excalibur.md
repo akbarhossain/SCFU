@@ -48,7 +48,7 @@ In the case of over subscription in any weapon participation at the Surrey Youth
 ### How do we find team members
 - We contact all the partcipants of the Surrey Youth Championships
 - We contact all the Surrey County based fencing clubs
-- You can [contact us](./contact)
+- You are welcome to [contact us](./contact) to put your name forward for selection
 
 ### Official Competition Invitation
 <http://www.swfencing.co.uk/wp-content/uploads/2018/11/Junior-Excalibur-2019-July-.pdf>
