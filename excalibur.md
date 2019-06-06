@@ -1,6 +1,6 @@
 # Excalibur
 
-The Surrey County Fencing Union is planning to send a six weapons contingent to Excalibur. If you would like to compete at the Excalibur event please contact us at ...
+The Surrey County Fencing Union is planning to send a six weapons contingent to Excalibur. If you would like to compete at the Excalibur event please [contact us](./contact).
 
 
 The details for the next Excalibur 2020 are as follows.
@@ -43,10 +43,10 @@ In the case of over subscription in any weapon participation at the Surrey Champ
 ### How do we find team members
 - We contact all the partcipants of the Surrey Youth Championships
 - We contact all the Surrey County based fencing clubs
-- You can contact us at ... 
+- You can [contact us](./contact). 
 
 ### Official Competition Invitation (2019)
 <https://bathswordclub.co.uk/wp-content/uploads/2019-excalibur-invitation..pdf>
 
 ### Any questions?
-If you have further questions please feel free to contact us at ...
+If you have further questions please feel free to [contact us](./contact).

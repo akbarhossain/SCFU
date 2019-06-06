@@ -1,6 +1,6 @@
 # Junior Excalibur
 
-The Surrey County Fencing Union is planning to send a six weapons contingent to Junior Excalibur. If you would like to compete at the Junior Excalibur event please [contact us](../contact).
+The Surrey County Fencing Union is planning to send a six weapons contingent to Junior Excalibur. If you would like to compete at the Junior Excalibur event please [contact us](./contact).
 
 
 The details for the next Junior Excalibur 2019 are as follows.
@@ -48,10 +48,10 @@ In the case of over subscription in any weapon participation at the Surrey Youth
 ### How do we find team members
 - We contact all the partcipants of the Surrey Youth Championships
 - We contact all the Surrey County based fencing clubs
-- You can [contact us](../contact)
+- You can [contact us](./contact)
 
 ### Official Competition Invitation
 <http://www.swfencing.co.uk/wp-content/uploads/2018/11/Junior-Excalibur-2019-July-.pdf>
 
 ### Any questions?
-If you have further questions please feel free to [contact us](../contact).
+If you have further questions please feel free to [contact us](./contact).
