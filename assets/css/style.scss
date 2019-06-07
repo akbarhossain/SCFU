@@ -24,3 +24,12 @@ body {
     text-align: center;
 }
 
+header img {
+	height: 75px;
+}
+
+@media print, screen and (max-width: 720px) {
+	header img {
+		height: 50px;
+	}
+}
