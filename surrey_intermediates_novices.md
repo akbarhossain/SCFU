@@ -1,4 +1,4 @@
-***Surrey County Intermediates & Novices***
+#Surrey County Intermediates & Novices
 
 [Enter now](https://bf.sport80.com){: .btn} 
 

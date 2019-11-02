@@ -1,4 +1,4 @@
-***Surrey County Open***
+# Surrey County Open
  
 [Enter now](https://bf.sport80.com){: .btn} 
 
