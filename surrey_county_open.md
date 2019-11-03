@@ -13,13 +13,13 @@ Senior six weapon open.
 |Contact number for day of competition|
 |Entry fee|
 |Entry List|[Sport80](https://bf.sport80.com/events)
-|Check in times| 
+|Check in close|MF & WF at 9:30<br/>ME,WE,MS,WS at 12:00
 |Refreshment details|
 |Prizes| Medals for Top 4 (No fence off for 3rd)<br/>Trophy awarded to Surrey winner|
 |Transport details|
 |Parking details|
 |Armory services|
-|Competitor License details|
+|Competitor License details|All Fencers require BF 'Compete' Level Membership
 
 [Enter now](https://bf.sport80.com){: .btn}
 
