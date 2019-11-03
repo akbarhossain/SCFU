@@ -2,7 +2,7 @@
  
 [Enter now](https://bf.sport80.com){: .btn} 
 
-Senior six weapon open.
+A full day of fencing in a fun and relaxed atmosphere. The Surrey County Open is a senior six weapon open and a great opportunity to catch up and exchange war stories with other fencers in the region. All competitors at this event will be considered for the [Senior Excalibur](./senior_excalibur) team event.  
 
 | | |
 |-|-|
