@@ -1,8 +1,8 @@
-#Surrey County Intermediates & Novices
+# Surrey County Intermediates & Novices
 
 [Enter now](https://bf.sport80.com){: .btn} 
 
-Senior six weapon open for intermediate and novice fencers.
+A perfect competition if you are new to fencing. Experience the thrill of your first competition in a fun, supportive and relaxed atmosphere. Open to all adults who have just started fencing (under 3 years experience). 
 
 | | |
 |-|-|
