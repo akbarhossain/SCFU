@@ -1,15 +1,20 @@
-[Surrey County Events](./events){: .btn}
-[Excalibur Teams](./excalibur){: .btn}
+[Events](./events){: .btn}
+[Excalibur Team](./excalibur){: .btn}
+[Clubs](./clubs){: .btn}
 
-# Surrey County Events
+# Events
 
 A full list of events hosted and run by Surrey County Fencing Union can be found [here](./events).
 
 # Excalibur Teams
 
-The Surrey County Fencing Union plan to send a six weapons contingent to both the Senior Excalibur and Junior Excalibur events hosted by Bath Sword Club. If you would like to to take part and compete at either of these events please [contact us](./contact).
+The Surrey County Fencing Union sends a six weapons contingent to both the Senior Excalibur and Junior Excalibur events hosted by Bath Sword Club. If you would like to to take part and compete at either of these events please [contact us](./contact).
 
 More details about Excalibur can be found [here](./excalibur).
 
+# Clubs
+
+A list of clubs based in Surrey can be found [here](./clubs). 
+
 ### Any questions?
-If you have further questions please feel free to [contact us](./contact).
+If you have further questions about the events and fencing clubs in Surrey or anything else please feel free to [contact us](./contact).
