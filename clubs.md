@@ -14,7 +14,7 @@ max-width:1000px;
  
 |Name|Postcode|Adult|Juniors|Epee|Foil|Sabre|Day|Website|
 |-|-|-|-|-|-|-|-|-|-|
-|Aldershot|GU7|Y|Y|Y|Y|N|Thu|[http://www.aldershotfencingclub.com](http://www.aldershotfencingclub.com)
+|Aldershot|[GU7](https://www.google.com/maps/place/Broadwater+School/@51.2013847,-0.5940859,15z/data=!4m5!3m4!1s0x0:0x462e2b7aa8b83695!8m2!3d51.2013847!4d-0.5940859)|Y|Y|Y|Y|N|Thu|[http://www.aldershotfencingclub.com](http://www.aldershotfencingclub.com)
 |Ashburton|CR0|Y|Y|Y|Y|Y|Thu|[http://www.ashburtonfencingclub.org.uk](http://www.ashburtonfencingclub.org.uk)
 |Escrime Academy London (Battersea)|SW11|N|Y|Y|Y|Y|Tue,Wed|[http://www.escrimeacademylondon.com](http://www.escrimeacademylondon.com)
 |The Fencing School (Battersea)|SW11|N|Y|N|Y|N|Wed,Thu,Sat,Sun|[http://thefencingschool.com](http://thefencingschool.com)
