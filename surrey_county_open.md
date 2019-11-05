@@ -19,6 +19,7 @@ Check in close|MF & WF at 9:30<br/>ME,WE,MS,WS at 12:00
 |Transport details|
 |Parking details|
 |Armory services|
+|Kit requirements|All BF kit safety guidelines will be followed.<br/>[BF Kit requirements](http://britishfencing.com/uploads/files/jan18_approved_safety_guidelines.pdf)
 |Competitor License details|All Fencers require BF 'Compete' Level Membership
 
 [Enter now](https://bf.sport80.com){: .btn}
