@@ -16,7 +16,7 @@ A full day of fencing in a fun and relaxed atmosphere. The Surrey County Open is
 |Entry List|[Sport80](https://bf.sport80.com/events)
 Check in close|MF & WF at 9:30<br/>ME,WE,MS,WS at 12:00
 |Refreshment details|On site cafeteria
-|Prizes| Medals for Top 4 (No fence off for 3rd)<br/>A trophy is awarded to a Surrey fencer (lives or a member of a Surrey County Club)|
+|Prizes| Medals for Top 4 (No fence off for 3rd)<br/>A trophy is awarded to a Surrey fencer (A fencer who lives or schools in Surrey or is a member of a [Surrey County Club](./clubs))|
 |Transport details|
 |Parking details|
 |Armory services|

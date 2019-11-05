@@ -12,7 +12,7 @@ max-width:1000px;
 
 # Surrey County Fencing Clubs
  
-|Name|Postcode|Epee|Foil|Sabre|Day|Website|
+|Club / Area|Postcode|Epee|Foil|Sabre|Day|Website|
 |-|-|-|-|-|-|-|-|
 |Aldershot|[GU7](https://www.google.com/maps/place/Broadwater+School/@51.2013847,-0.5940859,15z/data=!4m5!3m4!1s0x0:0x462e2b7aa8b83695!8m2!3d51.2013847!4d-0.5940859)|Adults Juniors|Adults Juniors||Thu|[http://www.aldershotfencingclub.com](http://www.aldershotfencingclub.com)
 |Escrime Academy London (Battersea)|[SW11](https://www.google.com/maps/place/L'École+de+Battersea/@51.474047,-0.1725868,15z/data=!4m5!3m4!1s0x0:0x3ee081d1f7ee9979!8m2!3d51.474047!4d-0.1725868)|Juniors|Juniors|Juniors|Tue,Wed|[http://www.escrimeacademylondon.com](http://www.escrimeacademylondon.com)
@@ -31,7 +31,7 @@ max-width:1000px;
 |Guildford|[GU1](https://www.google.com/maps/place/St+Peter's+Catholic+School/@51.2467713,-0.5379019,15z/data=!4m2!3m1!1s0x0:0xfc8747590c0b75ce?sa=X&ved=2ahUKEwiIm7aLsNDlAhWEilwKHYAhBy8Q_BIwCnoECA0QCA)|Adults Juniors|Adults Juniors|Adults Juniors|Fri|[https://www.guildfordfencing.co.uk](https://www.guildfordfencing.co.uk/)
 |Dream (Hammersmith)|[W6](https://www.google.com/maps/place/Latymer+Sports+Centre/@51.4910007,-0.2365043,15z/data=!4m2!3m1!1s0x0:0xdd5478606af8d0fd?sa=X&ved=2ahUKEwi5zaOwrdDlAhXKQUEAHXsND8gQ_BIwC3oECA4QCA)|Juniors|Juniors||Mon,Tue,Thu|[https://www.dreamfencing.co.uk](https://www.dreamfencing.co.uk)
 |Kingston|[KT3](https://www.google.com/maps/place/Coombe+Boys'+School/@51.3962506,-0.2478196,15z/data=!4m5!3m4!1s0x0:0x7b484c573431ea04!8m2!3d51.3962506!4d-0.2478196)|Adults Juniors|Adults Juniors|Adults Juniors|Tue|[http://www.kingstonfencing.co.uk](http://www.kingstonfencing.co.uk)
-|London Thames (Kingston)|[KT2](https://www.google.com/maps/place/Tiffin+School/@51.4113961,-0.2950789,15z/data=!4m5!3m4!1s0x0:0x87d380ed50d7c25b!8m2!3d51.4113961!4d-0.2950789)|Adults Juniors|Adults Juniors||Tue|[Website](https://k85695.wixsite.com/fencing-club)
+|London Thames (Kingston)|[KT2](https://www.google.com/maps/place/Tiffin+School/@51.4113961,-0.2950789,15z/data=!4m5!3m4!1s0x0:0x87d380ed50d7c25b!8m2!3d51.4113961!4d-0.2950789)|Adults Juniors|Adults Juniors||Tue|[LTFC Website](https://k85695.wixsite.com/fencing-club)
 |Redhill & Reigate|[RH2](https://www.google.com/maps/place/Dunottar+School/@51.2316622,-0.1830859,15z/data=!4m5!3m4!1s0x0:0x5ee6c18450de2116!8m2!3d51.2316622!4d-0.1830859)|Adults Juniors|||Tue|[http://www.redhillandreigateepeeclub.co.uk](http://www.redhillandreigateepeeclub.co.uk)
 |Salle Coton (Tooting)|[SW17](https://www.google.com/maps/place/Tooting+Leisure+Centre/@51.4292399,-0.1736721,15z/data=!4m5!3m4!1s0x0:0x4ecc169b18978c06!8m2!3d51.4292399!4d-0.1736721)|Adults Juniors|Adults Juniors|Adults Juniors|Sat|[http://www.sallecoton.com](http://www.sallecoton.com)
 |Salle Joseph (Streatham)|[SE19](https://www.google.com/maps/@51.420786,-0.10693,15z?hl=en-GB)|Adults Juniors|Adults Juniors|Adults Juniors|Fri|[http://www.sallejoseph.co.uk](http://www.sallejoseph.co.uk)
