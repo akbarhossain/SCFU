@@ -12,7 +12,7 @@ A full day of fencing in a fun and relaxed atmosphere. The Surrey County Open is
 |Competition format|1 or 2 rounds of poules followed by DE's.<br/>No fence off for 3rd place.|
 |Competition Organiser|Dr. James Hamilton
 |Contact number for day of competition|07715 146071
-|Entry fee|
+|Entry fee|£15 per weapon<br/>Entry for foil & epee or Sabre may be possible depending on whether the fencer is still in the foil competition.
 |Entry List|[Sport80](https://bf.sport80.com/events)
 Check in close|MF & WF at 9:30<br/>ME,WE,MS,WS at 12:00
 |Refreshment details|On site cafeteria
