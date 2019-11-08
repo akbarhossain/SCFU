@@ -14,7 +14,7 @@ A full day of fencing in a fun and relaxed atmosphere. The Surrey County Open is
 |Contact number for day of competition|07715 146071
 |Entry fee|£15 per weapon<br/>Entry for foil & epee or Sabre may be possible depending on whether the fencer is still in the foil competition.
 |Entry List|[Sport80](https://bf.sport80.com/public_reports/index/35785)
-Check in close|MF & WF at 9:30<br/>ME,WE,MS,WS at 12:00
+Check in close|MF & WF at 9:30<br/>ME,WE,MS,WS at 12:00<br/><br/>We intend to finish by 5pm
 |Refreshment details|On site cafeteria
 |Prizes| Medals for Top 4 (No fence off for 3rd)<br/>A trophy is awarded to a Surrey fencer (A fencer who lives or schools in Surrey or is a member of a [Surrey County Club](./clubs))|
 |Parking details|On site
