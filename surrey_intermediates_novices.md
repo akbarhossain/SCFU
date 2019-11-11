@@ -12,7 +12,7 @@ A perfect competition if you are new to fencing. Experience the thrill of your f
 |Competition format|For each category there will, depending on numbers, be one or two rounds of pools for all fencers  followed by a Direct Elimination.<br/><br/>Novices and Intermediates will fence together in one competition at least in the pools, but separate medals/trophies will be given for both.<br/><br/>Normally all fencers can expect to be included in the DE, but if numbers are large there may have to be a cut, but only if two rounds of pools are fought. The format will be described on the day.<br/><br/>If ladies or men's numbers are low, then ladies and men may be given the option of fencing the pools (but not the DE) together.<br/><br/>No fence off for 3rd place.|
 |Competition Organiser|Dr. James Hamilton
 |Contact number for day of competition|07715 146071
-|Entry fee|
+|Entry fee|£15 per weapon<br/>Entry for foil & epee or Sabre may be possible depending on whether the fencer is still in the foil competition.
 |Entry List|[Sport80](https://bf.sport80.com/public_reports/index/35789)
 Check in close|MF & WF at 9:30<br/>ME,WE,MS,WS at 12:00<br/><br/>We intend to finish by 5pm
 |Refreshment details|
