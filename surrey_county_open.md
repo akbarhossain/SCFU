@@ -6,7 +6,7 @@ A full day of fencing in a fun and relaxed atmosphere. The Surrey County Open is
 
 | | |
 |-|-|
-|Date|Sunday 8th Dec 2019
+|Date|Sunday 19th Jan 2020
 |Venue|Riddlesdown Collegiate<br/>Honister Heights<br/>Purley<br/>CR8 1EX<br/><br/>[Google Map](https://www.google.com/maps/place/Riddlesdown+Collegiate/@51.3257279,-0.087598,15z/data=!4m5!3m4!1s0x0:0x17d08bd5891ec11e!8m2!3d51.3257279!4d-0.087598)
 |Age| 13 or older on day of competition
 |Competition format|For each category there will, depending on numbers, be one or two rounds of pools for all fencers  followed by a Direct Elimination.<br/><br/>Normally all fencers can expect to be included in the DE, but if numbers are large there may have to be a cut, but only if two rounds of pools are fought.<br/><br/>The format will be described on the day. If ladies or men's numbers are low, then ladies and men may be given the option of fencing the pools (but not the DE) together.<br/><br/>No fence off for 3rd place.|
