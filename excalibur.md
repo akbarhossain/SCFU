@@ -1,5 +1,5 @@
-[Junior Excalibur](./junior_excalibur){: .btn}
 [Senior Excalibur](./senior_excalibur){: .btn}
+[Junior Excalibur](./junior_excalibur){: .btn}
 
 # Surrey County Excalibur Teams
 
