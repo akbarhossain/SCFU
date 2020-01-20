@@ -7,7 +7,7 @@ The Surrey County Fencing Union plan to send a six weapons contingent to both th
 
 ## Next Events
 
-Full details for the next Junior Excalibur 2019 event to be held 7th July 2019 can be found: [here](./junior_excalibur).
+Full details for the next Excalibur 2020 event to be held 25th and 26th April 2020 can be found: [here](./senior_excalibur).
 
 ## Why compete at Excalibur
 - Firstly it’s a team competition so expect to fence a lot of different fencing styles and to get a lot of practice. 

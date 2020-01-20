@@ -6,13 +6,15 @@ The Surrey County Fencing Union is planning to send a six weapons contingent to 
 The details for the next Excalibur 2020 are as follows.
  
 
-### When 
+### When
+Saturday 25th April 2020 and Sunday 26th April 2020 (two days)
 
 ### Check-in Time
+First round foil and epee matches will be called at 09.30
+Sabre matches will be called at 10.00
 
-### Where 
-
-### Age Category
+### Where
+Founders Hall, Bath. BA2 7AY      [Map](https://www.google.com/maps/place/Founders+Hall/@51.3796272,-2.3262081,15z/data=!4m5!3m4!1s0x0:0x5866ebd920ee6089!8m2!3d51.3796272!4d-2.3262081)
 
 ### Entry Cost
 £0 - the team entry fee will be paid by the SCFU
