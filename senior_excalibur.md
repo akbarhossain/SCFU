@@ -47,8 +47,8 @@ In the case of over subscription in any weapon participation at the Surrey Champ
 - We contact all the Surrey County based fencing clubs
 - You are welcome to [contact us](./contact) to put your name forward for selection
 
-### Official Competition Invitation (2019)
-<https://bathswordclub.co.uk/wp-content/uploads/2019-excalibur-invitation..pdf>
+### Official Competition Invitation (2020)
+<https://www.facebook.com/download/227542704927856/BSC%20Excalibur%202020%20entry%20pdf.pdf?av=100003274704741&eav=AfZ3rtnGcPXGx2P5X8JUdEy3r-akJ_cSMs2Tmu39bfe_N9RKgYUUTDWvk2IeOcwQfRY&hash=Aco76oGncm6nTWPV>
 
 ### Any questions?
 If you have further questions please feel free to [contact us](./contact).
