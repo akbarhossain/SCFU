@@ -48,7 +48,7 @@ In the case of over subscription in any weapon participation at the Surrey Champ
 - You are welcome to [contact us](./contact) to put your name forward for selection
 
 ### Official Competition Invitation (2020)
-<./assets/downloads/BSC\ Excalibur\ 2020\ invitation.pdf>
+(./assets/downloads/BSC Excalibur 2020 invitation.pdf)
 
 ### Any questions?
 If you have further questions please feel free to [contact us](./contact).
