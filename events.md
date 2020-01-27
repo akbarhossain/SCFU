@@ -6,6 +6,7 @@
 | Surrey Team Sabre | TBD
 | Surrey 1-hit Epee | TBD
 | Surrey Junior Foil | TBD
+| SCFU AGM | 15th Dec 2019 
 | [Surrey Intermediates and Novices](./surrey_intermediates_novices) | 15th Dec 2019
 | [Surrey County Open](./surrey_county_open) | 19th Jan 2020
 | Referee Course | 25th Jan 2020
