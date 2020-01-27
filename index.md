@@ -17,6 +17,10 @@ A full list of events hosted and run by Surrey County Fencing Union can be found
 
 The Surrey County Fencing Union sends a six weapons contingent to both the Senior Excalibur and Junior Excalibur events hosted by Bath Sword Club. If you would like to to take part and compete at either of these events please [contact us](./contact).
 
+| Tournament | When
+|-|-:|
+| [Excalibur 2020](./senior_excalibur) | 25th & 26th April 2020
+
 More details about Excalibur can be found [here](./excalibur).
 
 # Clubs
