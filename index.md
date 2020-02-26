@@ -9,7 +9,7 @@
 | Surrey Team Foil & Epee | 5th April 2020
 | Surrey Team Sabre | TBD
 | Surrey 1-hit Epee | TBD
-| Surrey Junior Foil | TBD
+| Surrey Junior Team Foil & Epee | TBD
 
 A full list of events hosted and run by Surrey County Fencing Union can be found [here](./events).
 
